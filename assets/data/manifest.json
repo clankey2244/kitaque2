@@ -1,0 +1,561 @@
+{
+  "schema": "kitasho-assets-v1",
+  "title": "北小クエストⅡ",
+  "basePath": "assets/",
+  "colors": {
+    "brown": "茶色",
+    "black": "黒",
+    "gold": "金色",
+    "pink": "ピンク色"
+  },
+  "heads": [
+    {
+      "index": 0,
+      "id": "01_short_brown",
+      "name": "短髪",
+      "width": 512,
+      "height": 512,
+      "layerMode": "head-body",
+      "hairBase": "brown",
+      "colors": {
+        "brown": {
+          "src": "heads/brown/full/01_short_brown.png",
+          "thumbnailSrc": "heads/brown/thumbnails/01_short_brown.png"
+        },
+        "black": {
+          "src": "heads/black/full/01_short_brown.png",
+          "thumbnailSrc": "heads/black/thumbnails/01_short_brown.png"
+        },
+        "gold": {
+          "src": "heads/gold/full/01_short_brown.png",
+          "thumbnailSrc": "heads/gold/thumbnails/01_short_brown.png"
+        },
+        "pink": {
+          "src": "heads/pink/full/01_short_brown.png",
+          "thumbnailSrc": "heads/pink/thumbnails/01_short_brown.png"
+        }
+      },
+      "hairMask": "hair-masks/01_short_brown.png"
+    },
+    {
+      "index": 1,
+      "id": "03_spiky_blond",
+      "name": "ツンツン",
+      "width": 512,
+      "height": 512,
+      "layerMode": "head-body",
+      "hairBase": "gold",
+      "colors": {
+        "brown": {
+          "src": "heads/brown/full/03_spiky_blond.png",
+          "thumbnailSrc": "heads/brown/thumbnails/03_spiky_blond.png"
+        },
+        "black": {
+          "src": "heads/black/full/03_spiky_blond.png",
+          "thumbnailSrc": "heads/black/thumbnails/03_spiky_blond.png"
+        },
+        "gold": {
+          "src": "heads/gold/full/03_spiky_blond.png",
+          "thumbnailSrc": "heads/gold/thumbnails/03_spiky_blond.png"
+        },
+        "pink": {
+          "src": "heads/pink/full/03_spiky_blond.png",
+          "thumbnailSrc": "heads/pink/thumbnails/03_spiky_blond.png"
+        }
+      },
+      "hairMask": "hair-masks/03_spiky_blond.png"
+    },
+    {
+      "index": 2,
+      "id": "04_bob",
+      "name": "ボブ",
+      "width": 512,
+      "height": 512,
+      "layerMode": "head-body",
+      "hairBase": "brown",
+      "colors": {
+        "brown": {
+          "src": "heads/brown/full/04_bob.png",
+          "thumbnailSrc": "heads/brown/thumbnails/04_bob.png"
+        },
+        "black": {
+          "src": "heads/black/full/04_bob.png",
+          "thumbnailSrc": "heads/black/thumbnails/04_bob.png"
+        },
+        "gold": {
+          "src": "heads/gold/full/04_bob.png",
+          "thumbnailSrc": "heads/gold/thumbnails/04_bob.png"
+        },
+        "pink": {
+          "src": "heads/pink/full/04_bob.png",
+          "thumbnailSrc": "heads/pink/thumbnails/04_bob.png"
+        }
+      },
+      "hairMask": "hair-masks/04_bob.png"
+    },
+    {
+      "index": 3,
+      "id": "05_straight_bob",
+      "name": "ぱっつんボブ",
+      "width": 512,
+      "height": 512,
+      "layerMode": "back-body-front",
+      "hairBase": "brown",
+      "colors": {
+        "brown": {
+          "src": "heads/brown/back/05_straight_bob.png",
+          "frontSrc": "heads/brown/front/05_straight_bob.png",
+          "thumbnailSrc": "heads/brown/thumbnails/05_straight_bob.png"
+        },
+        "black": {
+          "src": "heads/black/back/05_straight_bob.png",
+          "frontSrc": "heads/black/front/05_straight_bob.png",
+          "thumbnailSrc": "heads/black/thumbnails/05_straight_bob.png"
+        },
+        "gold": {
+          "src": "heads/gold/back/05_straight_bob.png",
+          "frontSrc": "heads/gold/front/05_straight_bob.png",
+          "thumbnailSrc": "heads/gold/thumbnails/05_straight_bob.png"
+        },
+        "pink": {
+          "src": "heads/pink/back/05_straight_bob.png",
+          "frontSrc": "heads/pink/front/05_straight_bob.png",
+          "thumbnailSrc": "heads/pink/thumbnails/05_straight_bob.png"
+        }
+      },
+      "hairMask": "hair-masks/05_straight_bob.png"
+    },
+    {
+      "index": 4,
+      "id": "06_long_brown",
+      "name": "ロング",
+      "width": 512,
+      "height": 512,
+      "layerMode": "back-body-front",
+      "hairBase": "brown",
+      "colors": {
+        "brown": {
+          "src": "heads/brown/back/06_long_brown.png",
+          "frontSrc": "heads/brown/front/06_long_brown.png",
+          "thumbnailSrc": "heads/brown/thumbnails/06_long_brown.png"
+        },
+        "black": {
+          "src": "heads/black/back/06_long_brown.png",
+          "frontSrc": "heads/black/front/06_long_brown.png",
+          "thumbnailSrc": "heads/black/thumbnails/06_long_brown.png"
+        },
+        "gold": {
+          "src": "heads/gold/back/06_long_brown.png",
+          "frontSrc": "heads/gold/front/06_long_brown.png",
+          "thumbnailSrc": "heads/gold/thumbnails/06_long_brown.png"
+        },
+        "pink": {
+          "src": "heads/pink/back/06_long_brown.png",
+          "frontSrc": "heads/pink/front/06_long_brown.png",
+          "thumbnailSrc": "heads/pink/thumbnails/06_long_brown.png"
+        }
+      },
+      "hairMask": "hair-masks/06_long_brown.png"
+    },
+    {
+      "index": 5,
+      "id": "07_straight_long",
+      "name": "直毛ロング",
+      "width": 512,
+      "height": 512,
+      "layerMode": "back-body-front",
+      "hairBase": "brown",
+      "colors": {
+        "brown": {
+          "src": "heads/brown/back/07_straight_long.png",
+          "frontSrc": "heads/brown/front/07_straight_long.png",
+          "thumbnailSrc": "heads/brown/thumbnails/07_straight_long.png"
+        },
+        "black": {
+          "src": "heads/black/back/07_straight_long.png",
+          "frontSrc": "heads/black/front/07_straight_long.png",
+          "thumbnailSrc": "heads/black/thumbnails/07_straight_long.png"
+        },
+        "gold": {
+          "src": "heads/gold/back/07_straight_long.png",
+          "frontSrc": "heads/gold/front/07_straight_long.png",
+          "thumbnailSrc": "heads/gold/thumbnails/07_straight_long.png"
+        },
+        "pink": {
+          "src": "heads/pink/back/07_straight_long.png",
+          "frontSrc": "heads/pink/front/07_straight_long.png",
+          "thumbnailSrc": "heads/pink/thumbnails/07_straight_long.png"
+        }
+      },
+      "hairMask": "hair-masks/07_straight_long.png"
+    },
+    {
+      "index": 6,
+      "id": "08_low_twintails",
+      "name": "低めツイン",
+      "width": 512,
+      "height": 512,
+      "layerMode": "back-body-front",
+      "hairBase": "brown",
+      "colors": {
+        "brown": {
+          "src": "heads/brown/back/08_low_twintails.png",
+          "frontSrc": "heads/brown/front/08_low_twintails.png",
+          "thumbnailSrc": "heads/brown/thumbnails/08_low_twintails.png"
+        },
+        "black": {
+          "src": "heads/black/back/08_low_twintails.png",
+          "frontSrc": "heads/black/front/08_low_twintails.png",
+          "thumbnailSrc": "heads/black/thumbnails/08_low_twintails.png"
+        },
+        "gold": {
+          "src": "heads/gold/back/08_low_twintails.png",
+          "frontSrc": "heads/gold/front/08_low_twintails.png",
+          "thumbnailSrc": "heads/gold/thumbnails/08_low_twintails.png"
+        },
+        "pink": {
+          "src": "heads/pink/back/08_low_twintails.png",
+          "frontSrc": "heads/pink/front/08_low_twintails.png",
+          "thumbnailSrc": "heads/pink/thumbnails/08_low_twintails.png"
+        }
+      },
+      "hairMask": "hair-masks/08_low_twintails.png",
+      "layerDescription": "screen-left ponytail behind body; screen-right hair and face in front"
+    },
+    {
+      "index": 7,
+      "id": "09_drill_twintails",
+      "name": "ドリル",
+      "width": 512,
+      "height": 512,
+      "layerMode": "back-body-front",
+      "hairBase": "brown",
+      "colors": {
+        "brown": {
+          "src": "heads/brown/back/09_drill_twintails.png",
+          "frontSrc": "heads/brown/front/09_drill_twintails.png",
+          "thumbnailSrc": "heads/brown/thumbnails/09_drill_twintails.png"
+        },
+        "black": {
+          "src": "heads/black/back/09_drill_twintails.png",
+          "frontSrc": "heads/black/front/09_drill_twintails.png",
+          "thumbnailSrc": "heads/black/thumbnails/09_drill_twintails.png"
+        },
+        "gold": {
+          "src": "heads/gold/back/09_drill_twintails.png",
+          "frontSrc": "heads/gold/front/09_drill_twintails.png",
+          "thumbnailSrc": "heads/gold/thumbnails/09_drill_twintails.png"
+        },
+        "pink": {
+          "src": "heads/pink/back/09_drill_twintails.png",
+          "frontSrc": "heads/pink/front/09_drill_twintails.png",
+          "thumbnailSrc": "heads/pink/thumbnails/09_drill_twintails.png"
+        }
+      },
+      "hairMask": "hair-masks/09_drill_twintails.png",
+      "layerDescription": "screen-left ponytail behind body; screen-right hair and face in front"
+    },
+    {
+      "index": 8,
+      "id": "10_twin_buns",
+      "name": "ツインお団子",
+      "width": 512,
+      "height": 512,
+      "layerMode": "head-body",
+      "hairBase": "brown",
+      "colors": {
+        "brown": {
+          "src": "heads/brown/full/10_twin_buns.png",
+          "thumbnailSrc": "heads/brown/thumbnails/10_twin_buns.png"
+        },
+        "black": {
+          "src": "heads/black/full/10_twin_buns.png",
+          "thumbnailSrc": "heads/black/thumbnails/10_twin_buns.png"
+        },
+        "gold": {
+          "src": "heads/gold/full/10_twin_buns.png",
+          "thumbnailSrc": "heads/gold/thumbnails/10_twin_buns.png"
+        },
+        "pink": {
+          "src": "heads/pink/full/10_twin_buns.png",
+          "thumbnailSrc": "heads/pink/thumbnails/10_twin_buns.png"
+        }
+      },
+      "hairMask": "hair-masks/10_twin_buns.png"
+    }
+  ],
+  "bodies": [
+    {
+      "index": 0,
+      "id": "hoodie",
+      "name": "パーカー",
+      "width": 562,
+      "height": 798,
+      "src": "bodies/hoodie.png"
+    },
+    {
+      "index": 1,
+      "id": "dress",
+      "name": "ワンピース",
+      "width": 600,
+      "height": 780,
+      "src": "bodies/dress.png"
+    },
+    {
+      "index": 2,
+      "id": "stripes",
+      "name": "白黒ボーダー",
+      "width": 924,
+      "height": 1133,
+      "src": "bodies/stripes.png"
+    },
+    {
+      "index": 3,
+      "id": "gray_star",
+      "name": "グレー・星",
+      "width": 905,
+      "height": 1484,
+      "src": "bodies/gray_star.png"
+    },
+    {
+      "index": 4,
+      "id": "pe_uniform",
+      "name": "体操服",
+      "width": 1217,
+      "height": 1177,
+      "src": "bodies/pe_uniform.png"
+    },
+    {
+      "index": 5,
+      "id": "dragons",
+      "name": "DRAGONS",
+      "width": 1201,
+      "height": 1185,
+      "src": "bodies/dragons.png"
+    },
+    {
+      "index": 6,
+      "id": "barista",
+      "name": "緑エプロン",
+      "width": 1080,
+      "height": 1263,
+      "src": "bodies/barista.png"
+    },
+    {
+      "index": 7,
+      "id": "08_lab_coat",
+      "name": "8. 白衣",
+      "width": 946,
+      "height": 1308,
+      "src": "bodies/08_lab_coat.png"
+    },
+    {
+      "index": 8,
+      "id": "09_ghost",
+      "name": "9. おばけ",
+      "width": 1112,
+      "height": 1389,
+      "src": "bodies/09_ghost.png"
+    },
+    {
+      "index": 9,
+      "id": "10_school_summer_pants",
+      "name": "10. 夏制服・ズボン",
+      "width": 938,
+      "height": 1285,
+      "src": "bodies/10_school_summer_pants.png"
+    },
+    {
+      "index": 10,
+      "id": "11_school_summer_skirt",
+      "name": "11. 夏制服・スカート",
+      "width": 953,
+      "height": 1320,
+      "src": "bodies/11_school_summer_skirt.png"
+    },
+    {
+      "index": 11,
+      "id": "12_school_winter_tie",
+      "name": "12. 冬制服・ネクタイ",
+      "width": 1067,
+      "height": 1317,
+      "src": "bodies/12_school_winter_tie.png"
+    },
+    {
+      "index": 12,
+      "id": "13_school_winter_ribbon",
+      "name": "13. 冬制服・リボン",
+      "width": 1055,
+      "height": 1313,
+      "src": "bodies/13_school_winter_ribbon.png"
+    },
+    {
+      "index": 13,
+      "id": "14_lawson",
+      "name": "14. ローソン",
+      "width": 961,
+      "height": 1352,
+      "src": "bodies/14_lawson.png"
+    },
+    {
+      "index": 14,
+      "id": "15_navy_pajamas",
+      "name": "15. 紺パジャマ",
+      "width": 1031,
+      "height": 1443,
+      "src": "bodies/15_navy_pajamas.png"
+    },
+    {
+      "index": 15,
+      "id": "16_pink_pajamas",
+      "name": "16. ピンクパジャマ",
+      "width": 949,
+      "height": 1370,
+      "src": "bodies/16_pink_pajamas.png"
+    },
+    {
+      "index": 16,
+      "id": "17_omurice",
+      "name": "17. オムライス",
+      "width": 1020,
+      "height": 1379,
+      "src": "bodies/17_omurice.png"
+    },
+    {
+      "index": 17,
+      "id": "18_winter_chester",
+      "name": "18. 冬チェスター",
+      "width": 1020,
+      "height": 1404,
+      "src": "bodies/18_winter_chester.png"
+    },
+    {
+      "index": 18,
+      "id": "19_gray_knit_skirt",
+      "name": "19. グレーニット",
+      "width": 1051,
+      "height": 1439,
+      "src": "bodies/19_gray_knit_skirt.png"
+    },
+    {
+      "index": 19,
+      "id": "20_santa",
+      "name": "20. サンタ",
+      "width": 1053,
+      "height": 1421,
+      "src": "bodies/20_santa.png"
+    },
+    {
+      "index": 20,
+      "id": "21_mcdonalds_vest",
+      "name": "21. Mベスト",
+      "width": 878,
+      "height": 1381,
+      "src": "bodies/21_mcdonalds_vest.png"
+    },
+    {
+      "index": 21,
+      "id": "22_ginza_sembikiya",
+      "name": "22. 銀座千疋屋",
+      "width": 1002,
+      "height": 1418,
+      "src": "bodies/22_ginza_sembikiya.png"
+    },
+    {
+      "index": 22,
+      "id": "23_cafe_de_crie",
+      "name": "23. カフェ・ド・クリエ",
+      "width": 1020,
+      "height": 1329,
+      "src": "bodies/23_cafe_de_crie.png"
+    },
+    {
+      "index": 23,
+      "id": "24_hero_sword_shield",
+      "name": "24. 勇者・剣と盾",
+      "width": 1183,
+      "height": 1295,
+      "src": "bodies/24_hero_sword_shield.png"
+    },
+    {
+      "index": 24,
+      "id": "25_black_mage_dress",
+      "name": "25. 黒い魔法使い",
+      "width": 1061,
+      "height": 1443,
+      "src": "bodies/25_black_mage_dress.png"
+    },
+    {
+      "index": 25,
+      "id": "26_sunflower_yukata",
+      "name": "26. ひまわり浴衣",
+      "width": 1018,
+      "height": 1430,
+      "src": "bodies/26_sunflower_yukata.png"
+    },
+    {
+      "index": 26,
+      "id": "27_burton_snowboard",
+      "name": "27. スノーボード",
+      "width": 1008,
+      "height": 1425,
+      "src": "bodies/27_burton_snowboard.png"
+    },
+    {
+      "index": 27,
+      "id": "28_ice_cream",
+      "name": "28. アイスクリーム",
+      "width": 1024,
+      "height": 1386,
+      "src": "bodies/28_ice_cream.png"
+    },
+    {
+      "index": 28,
+      "id": "29_spacesuit_helmet",
+      "name": "29. 宇宙服",
+      "width": 1004,
+      "height": 1384,
+      "src": "bodies/29_spacesuit_helmet.png"
+    },
+    {
+      "index": 29,
+      "id": "30_jinbei_festival",
+      "name": "30. 甚平・夏祭り",
+      "width": 1027,
+      "height": 1396,
+      "src": "bodies/30_jinbei_festival.png"
+    }
+  ],
+  "mouths": [
+    {
+      "index": 0,
+      "id": "mouth_1",
+      "name": "開いた笑顔",
+      "src": "mouths/mouth_1.svg"
+    },
+    {
+      "index": 1,
+      "id": "mouth_2",
+      "name": "閉じた笑顔",
+      "src": "mouths/mouth_2.svg"
+    },
+    {
+      "index": 2,
+      "id": "mouth_3",
+      "name": "小さい丸口",
+      "src": "mouths/mouth_3.svg"
+    },
+    {
+      "index": 3,
+      "id": "mouth_4",
+      "name": "への字口",
+      "src": "mouths/mouth_4.svg"
+    },
+    {
+      "index": 4,
+      "id": "mouth_5",
+      "name": "困り口",
+      "src": "mouths/mouth_5.svg"
+    }
+  ]
+}
